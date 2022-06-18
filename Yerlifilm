@@ -6,3 +6,45 @@ http://yenisular7.live:8080/movie/Npd5wDYqk4/tm9eX2bTcV/82674.mkv
 http://yenisular7.live:8080/movie/Npd5wDYqk4/tm9eX2bTcV/82711.mkv
 #EXTINF:0 user-agent="Firefox/100.0" tvg-id="" tvg-name="Kiyma.S01E04" tvg-logo="https://i.hizliresim.com/7d564ma.png" group-title="BLU TV",Kiyma.S01E04
 http://yenisular7.live:8080/movie/Npd5wDYqk4/tm9eX2bTcV/82852.mkv
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="Atv FHD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" group-title="Ulusal",Atv FHD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atv Euro HD" tvg-logo="http://logo.apk-red.com/logo/atv_tr_avrupa.png" group-title="Ulusal",Atv Euro HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/4939.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D 4K" tvg-logo="http://logo.apk-red.com/logo/kanal_d_tr.png" group-title="4K Ulusal",Kanal D 4K
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/92340.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D HD" tvg-logo="http://logo.apk-red.com/logo/kanal_d_tr.png" group-title="Ulusal",Kanal D HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/791.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D FHD" tvg-logo="http://logo.apk-red.com/logo/kanal_d_tr.png" group-title="Ulusal",Kanal D FHD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Euro HD" tvg-logo="http://logo.apk-red.com/logo/kanal_d_ro.png" group-title="Ulusal",Kanal D Euro HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/4940.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="https://iatv.tmgrup.com.tr/site/v1/a2tv/i/logo.png" group-title="Ulusal",A2 HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/726.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="Fox Tv 4K" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" group-title="4K Ulusal",Fox Tv 4K
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/92338.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="Fox HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" group-title="Ulusal",Fox HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/794.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="Fox Tv FHD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" group-title="Ulusal",Fox Tv FHD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/709.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star Tv 4K" tvg-logo="http://logo.apk-red.com/logo/star_tv_tr.png" group-title="4K Ulusal",Star Tv 4K
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/92336.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/406/Image/70x46_startv_hd.png" group-title="Ulusal",Star TV HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/796.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV FHD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/406/Image/70x46_startv_hd.png" group-title="Ulusal",Star TV FHD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Tv Euro HD" tvg-logo="http://logo.apk-red.com/logo/euro_star_tr.png" group-title="Ulusal",Star Tv Euro HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/4942.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show Tv 4K" tvg-logo="http://logo.apk-red.com/logo/show_tv_tr.png" group-title="4K Ulusal",Show Tv 4K
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/92337.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV HD" tvg-logo="http://logo.apk-red.com/logo/show_tv_tr.png" group-title="Ulusal",Show TV HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/795.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV FHD" tvg-logo="http://logo.apk-red.com/logo/show_tv_tr.png" group-title="Ulusal",Show TV FHD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Show Tv Euro HD" tvg-logo="https://pbs.twimg.com/profile_images/537263525509361664/SoruSuMT_400x400.png" group-title="Ulusal",Show Tv Euro HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/4941.m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="Showmax HD" tvg-logo="http://logo.apk-red.com/logo/show_max_tr.png" group-title="Ulusal",Showmax HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/129789.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="Tv8 4K" tvg-logo="http://logo.apk-red.com/logo/tv8_tr.png" group-title="4K Ulusal",Tv8 4K
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/92341.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8 HD" tvg-logo="http://logo.apk-red.com/logo/tv8_tr.png" group-title="Ulusal",TV 8 HD
+http://test606mk.xyz:80/live/ZeR58Atxb4/jjN6WDqq3H/799.m3u8
